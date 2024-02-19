@@ -114,7 +114,7 @@ body {
 .containerfour{
     margin-top: 50px;
     width: 1260px;
-    background-color: green;
+    background-color: rgb(255, 255, 255);
     text-align: center;
 
 
@@ -132,9 +132,5 @@ body {
 .containerfourb {
     width: 1260px;
     height: 400px;
-    display: grid;
 }
 
-.containerfourbcard1 {
-
-}
